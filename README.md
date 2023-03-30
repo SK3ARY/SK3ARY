@@ -1,3 +1,4 @@
 # About me!
 
-I like Python, C++ and Svelte. I also like making my own programming languages as-well as a few _"joke"_ ones
+JBHS - **2026**
+I've been programming sense 7th grade and love to take-on projects!
